@@ -1,0 +1,22 @@
+jack, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 22 Dec 2022, Yes
+jack, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Oct 2022, Yes
+faiz, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Dec 2022, Yes
+jacob, Add all new users to database, Using sql to arrange the data in an easy eay, 01 Aug 2022, 21 Nov 2022, No
+kayla, Add all new users to database, Using sql to arrange the data in an easy eay, 01 Aug 2022, 20 Dec 2022, No
+hunter, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Aug 2022, No
+gilbert, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Aug 2022, Yes
+jack, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Aug 2022, Yes
+gilbert, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Dec 2022, No
+jacob, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Aug 2022, No
+hill, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Aug 2022, No
+izzy, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 1 Aug 2022, No
+jacob, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Nov 2022, No
+izzy, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Dec 2022, No
+hill, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 27 Aug 2022, No
+jacob, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Oct 2022, No
+winslow, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 30 Aug 2022, No
+joseph, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 30 Aug 2022, No
+kayla, Assess Users, Assess the logical capabalities of the other users, 17 Aug 2022, 12 Sep 2022, No
+jill, Hide, Hide and seek in the back yard, 17 Aug 2022, 01 Nov 2022, Yes
+admin, Add importance to task, On each task add a property to select whether it is a priority or not, 18 Aug 2022, 01 Oct 2022, Yes
+faiz, jump, jump onto the largest trampoline, 20 Aug 2022, 01 Oct 2022, Yes

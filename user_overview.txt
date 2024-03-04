@@ -1,0 +1,14 @@
+admin - Total assigned tasks: 1, Total percent of all tasks: 4.5%, Percent complete: 100.0%, Percent incomplete: 0.0%, Percent incomplete & overdue: 0.0%
+faiz - Total assigned tasks: 2, Total percent of all tasks: 9.1%, Percent complete: 100.0%, Percent incomplete: 0.0%, Percent incomplete & overdue: 0.0%
+hunter - Total assigned tasks: 1, Total percent of all tasks: 4.5%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+hill - Total assigned tasks: 2, Total percent of all tasks: 9.1%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+jack - Total assigned tasks: 3, Total percent of all tasks: 13.6%, Percent complete: 100.0%, Percent incomplete: 0.0%, Percent incomplete & overdue: 0.0%
+jacob - Total assigned tasks: 4, Total percent of all tasks: 18.2%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+hilton - No tasks assigned to user
+izzy - Total assigned tasks: 2, Total percent of all tasks: 9.1%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+winslow - Total assigned tasks: 1, Total percent of all tasks: 4.5%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+gilbert - Total assigned tasks: 2, Total percent of all tasks: 9.1%, Percent complete: 50.0%, Percent incomplete: 50.0%, Percent incomplete & overdue: 50.0%
+joseph - Total assigned tasks: 1, Total percent of all tasks: 4.5%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+jill - Total assigned tasks: 1, Total percent of all tasks: 4.5%, Percent complete: 100.0%, Percent incomplete: 0.0%, Percent incomplete & overdue: 0.0%
+kayla - Total assigned tasks: 2, Total percent of all tasks: 9.1%, Percent complete: 0.0%, Percent incomplete: 100.0%, Percent incomplete & overdue: 100.0%
+hilll - No tasks assigned to user
